@@ -20,7 +20,7 @@ def exponentiation(x, y):
 
 while True :
     # Get the action from the user
-    action = input("What action do you want to do? (addition, subtraction, multiplication, division): ")
+    action = input("What action do you want to do? (addition, subtraction, multiplication, division, exponentiation): ")
 
     # Perform the selected operation
     if action == "addition":
